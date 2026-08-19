@@ -81,7 +81,7 @@ I build production-style, end-to-end software — from hydrological flood-predic
 # 📊 GitHub Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sakshyam-Xtha&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Sakshyam-Xtha&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Sakshyam-Xtha&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshyam-Xtha&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
