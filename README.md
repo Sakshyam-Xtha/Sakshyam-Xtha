@@ -1,24 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sakshyam Shrestha</h1>
-
-<h3 align="center">Python Developer • AI & Machine Learning Enthusiast • Full-Stack Developer</h3>
+<h3 align="center">Backend Developer (Django) • AI & Machine Learning Engineer • Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Building+Intelligent+Applications;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Developer+(Django);AI+%26+Machine+Learning+Engineer;Full-Stack+Developer;Building+Production-Style+Applications;Always+Learning+Something+New" />
 </p>
 
 ---
 
 # 💫 About Me
 
-I'm **Sakshyam Shrestha**, a Python developer from Nepal passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
+I'm **Sakshyam Shrestha**, a Python developer from Nepal focused on **backend engineering with Django** and **AI/ML systems with PyTorch**.
 
-I enjoy building practical software—from intelligent ML models to full-stack web applications—and continuously improve by creating real-world projects.
+I build production-style, end-to-end software — from hydrological flood-prediction pipelines to full-stack inventory apps — and grow by shipping real projects, not tutorials.
 
-- 🔭 Building AI-powered and Full-Stack applications
-- 🌱 Learning Django, Next.js, PyTorch & Software Engineering
-- 🤖 Interested in AI, Automation & Data Science
-- 💬 Ask me about Python, ML or Web Development
-- 🎯 Goal: Become an AI Engineer & Full-Stack Developer
+- 🔭 Building backend systems in **Django / DRF** and AI-powered applications in **PyTorch**
+- 🌱 Learning FastAPI, Next.js, and software engineering practices — testing, CI/CD, Docker
+- 🤖 Interested in AI, Automation, LLM tooling & Data Science
+- 💬 Ask me about Python, Django, Machine Learning, or Web Development
+- 🎯 Goal: Backend Developer / AI-ML Engineer role
 
 ---
 
@@ -37,22 +36,27 @@ I enjoy building practical software—from intelligent ML models to full-stack w
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
 ### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-
-### Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite)
 
-### ML
+### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![XGBoost](https://img.shields.io/badge/XGBoost-016A70?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
 ### Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -66,11 +70,11 @@ I enjoy building practical software—from intelligent ML models to full-stack w
 
 # 🚀 Featured Projects
 
-- 🌐 **AniTalk** — Anime review and discussion platform.
-- 🤖 **AI Health Assistant** — AI-powered healthcare assistant.
-- 🌊 **SmartNepal Hydro** — Flood prediction using Machine Learning.
-- 📈 **House Price Prediction Model** — ML model with Streamlit.
-- 💬 **Chatbot using Groq API** — Fast AI chatbot.
+- 🌊 **[Aqua Guard](https://aqua-gaurd.netlify.app/)** — AI-powered hydrological flood prediction system for Nepali rivers (XGBoost, RandomForest, PyTorch LSTM, FastAPI backend, React dashboard). Built for JunctionX Kathmandu 2026.
+- 📦 **[Saral Kitab](https://saralkitab.onrender.com)** — Full-stack Android inventory & sales tracking app (React + Capacitor, Django REST Framework backend with token auth).
+- ⚖️ **[Kalobot](https://kalokot.netlify.app/)** — Procurement corruption risk analyzer scoring red flags from documents via an LLM pipeline and Gradio interface.
+- 📚 **[LMS — Library Management System](https://lms.kesug.com)** — Multi-role, database-driven library management web app built in PHP.
+- 🖥️ **X.A.R.V.I.S** — CLI AI agent using LangChain agent pipelines for task execution *(in development)*.
 
 ---
 
@@ -93,4 +97,4 @@ I enjoy building practical software—from intelligent ML models to full-stack w
 
 ---
 
-<p align="center"><b>Code. Learn. Build. Repeat.</b></p>
+<p align="center"><b>Code. Build. Ship. Repeat.</b></p>
