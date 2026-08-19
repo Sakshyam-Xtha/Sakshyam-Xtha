@@ -86,7 +86,7 @@ I build production-style, end-to-end software — from hydrological flood-predic
 </p>
 
 <p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=Sakshyam-Xtha&theme=github-dark-blue&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Sakshyam-Xtha&theme=github-dark-blue&hide_border=true&cachebust=1"/>
 </p>
 
 ---
